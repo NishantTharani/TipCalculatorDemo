@@ -44,6 +44,9 @@ class ViewController: UIViewController {
         tipControl.setTitle(middleTip, forSegmentAt: 1)
         tipControl.setTitle(rightTip, forSegmentAt: 2)
         
+        // Re-calculate the tip if the percentages were changed
+        calculateTip(tipControl!)
+        
     }
 
     @IBAction func calculateTip(_ sender: Any) {
