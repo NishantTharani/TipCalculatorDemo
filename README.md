@@ -27,6 +27,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+![Video-Walkthrough](https://media.giphy.com/media/w1J9tkcq2Hw6pvrCHt/giphy.gif)
+
 GIF created with QuickTime, ffmpeg, and gifsicle
 
 ## Notes
